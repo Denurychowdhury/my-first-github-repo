@@ -4,4 +4,8 @@ two
 3434
 denury
 git
+<<<<<<< HEAD
 conflict
+=======
+conflict
+>>>>>>> staging
